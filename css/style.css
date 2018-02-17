@@ -22,8 +22,8 @@ body {
     text-decoration: none;
 }
 
-.main_meu a {
-	color: #red;
+.main_menu a:hover {
+	color: red;
 }
 
 img[alt="Фото товара"] {
