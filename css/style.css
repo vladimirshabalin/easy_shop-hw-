@@ -26,6 +26,11 @@ body {
 	color: red;
 }
 
+strong {
+	color: blue;
+	font-size: 20px;
+}
+
 img[alt="Фото товара"] {
     border: 1px solid #001c27;
 }
